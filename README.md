@@ -9,6 +9,8 @@ As you may suspect, I love my garden too!
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=GreenGard&show_icons=true)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenGard&theme=blue-green)
+
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
