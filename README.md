@@ -2,7 +2,9 @@
 🌱 I’m currently learning Java 
 
 As you may suspect, I love my garden too! 
-https://forthebadge.com/images/badges/built-with-love.svg [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
