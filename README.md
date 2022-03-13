@@ -5,8 +5,11 @@ As you may suspect, I love my garden too!
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-<!-- Markdown -->
 
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=GreenGard&show_icons=true)
+
+<!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
