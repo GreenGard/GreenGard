@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning Java 
-
+🌱 
+Java developer currently playing with C# =)
 As you may suspect, I love my garden too! 
 
 
