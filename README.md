@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 
 Java developer currently playing with C# =)
-As you may suspect, I love my garden too! 
+
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
